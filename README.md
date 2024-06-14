@@ -17,15 +17,15 @@ The finance report concentrates on the financial health and performance of AtliQ
 - **4.	GM% by Quarters (sub-zone)**: Analysis of Gross Margin percentage by quarters, broken up into sub-zones, to monitor the profitability trend and also to identify some areas for improvement.
 ## Skills and Techniques Applied
 Throughout this project, I have applied several Excel skills and techniques. Some include:
-- **•	Basic and Advanced Formulas**: Used SUM, IF, SUMIF, CALCULATE, DIVIDE, IFERROR, VLOOKUP, XLOOKUP, and INDEX MATCH.
-- **•	Data Handling and Cleaning**: Managed the data most efficiently, using tables, filter and sort features, and conditional formatting. The more detailed parts of these tasks were done using the Power Query tool for advanced cleaning and merging.
-- **•	Data Visualization**: Created dynamic charts and pivot tables for effective presentation of data. Power Pivot has been used for advanced data modeling.
-- **•	Business Metrics Analysis**: Analyzed the critical business metrics, including Profit & Loss statements, COGS, Gross Margin, and Gross Margin%
-- **•	Advanced Excel Tools**: Utilized Power Query in the tasks for data cleaning, merging, and transformation while effectively employing ETL processes for integration and transformation of data.
-- **•	ETL Processes**: Used Extract, Transform, Load (ETL) processes to efficiently integrate and transform data into clean and precise datasets.
-- **•	M Language**: Worked with the M language in Power Query for complex data transformation tasks; therefore, I could achieve sophisticated data cleaning and shaping operations.
-- **•	DAX Queries**: Used Data Analysis Expressions to apply complex query filters and create reports using query functionalities that satisfied stakeholder needs.
-- **•	Power Pivot**: I created data models and the relationship between datasets in Power Pivot to enhance the ability to do in-depth analysis of data with good reporting.
+- **Basic and Advanced Formulas**: Used SUM, IF, SUMIF, CALCULATE, DIVIDE, IFERROR, VLOOKUP, XLOOKUP, and INDEX MATCH.
+- **Data Handling and Cleaning**: Managed the data most efficiently, using tables, filter and sort features, and conditional formatting. The more detailed parts of these tasks were done using the Power Query tool for advanced cleaning and merging.
+- **Data Visualization**: Created dynamic charts and pivot tables for effective presentation of data. Power Pivot has been used for advanced data modeling.
+- **Business Metrics Analysis**: Analyzed the critical business metrics, including Profit & Loss statements, COGS, Gross Margin, and Gross Margin%
+- **Advanced Excel Tools**: Utilized Power Query in the tasks for data cleaning, merging, and transformation while effectively employing ETL processes for integration and transformation of data.
+- **ETL Processes**: Used Extract, Transform, Load (ETL) processes to efficiently integrate and transform data into clean and precise datasets.
+- **M Language**: Worked with the M language in Power Query for complex data transformation tasks; therefore, I could achieve sophisticated data cleaning and shaping operations.
+- **DAX Queries**: Used Data Analysis Expressions to apply complex query filters and create reports using query functionalities that satisfied stakeholder needs.
+- **Power Pivot**: I created data models and the relationship between datasets in Power Pivot to enhance the ability to do in-depth analysis of data with good reporting.
 
 This project has proved to be a great learning experience for me, which helped me reinstate my Excel features at the Business Intelligence and Analytics level. I would like to translate these learnings into action towards driving and empowering data-driven decision-making that, in turn facilitates AtliQ Technologies to achieve increased organizational effectiveness and successful business performance improvement.
 
